@@ -4,6 +4,8 @@
 
 package com.mycompany.systemclients;
 
+import com.mycompany.systemclients.forms.Formulario;
+
 /**
  *
  * @author pachi
